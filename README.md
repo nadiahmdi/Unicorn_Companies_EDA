@@ -1,8 +1,8 @@
-#Unicorn Companies Dataset Exploratory Data Analysis (EDA)
-##Overview
+# Unicorn Companies Dataset Exploratory Data Analysis (EDA)
+## Overview
 This repository contains exploratory data analysis (EDA) for the Unicorn Companies dataset. The Unicorn Companies dataset comprises information about various companies around the world that have achieved a valuation of over $1 billion, also known as unicorn startups.
 
-##Dataset Description
+## Dataset Description
 The Unicorn Companies dataset includes the following columns:
 
 - Company: Name of the company.
@@ -15,7 +15,7 @@ The Unicorn Companies dataset includes the following columns:
 - Investors Count: Number of investors who have invested in the company.
 - Deal Terms: Terms of the deal for the company (e.g., number of investors, valuation).
 
-##Exploratory Data Analysis
+## Exploratory Data Analysis
 The EDA includes various analyses and visualizations to understand the characteristics and trends present in the Unicorn Companies dataset. Some of the analyses performed include:
 
 - Time series analysis of company founding trends over time.
